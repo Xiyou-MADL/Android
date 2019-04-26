@@ -22,6 +22,9 @@
 - [Java300集大型视频教程](https://study.163.com/course/courseMain.htm?courseId=343001)
 - [极客学院](https://pan.baidu.com/s/18F2kWNmwWJW4QRdjSEulEQ)
 - [动脑学院](https://pan.baidu.com/s/1rzGAMZr9fK90yMGMhGKlHw)
+- [框架解析](https://pan.baidu.com/s/1HtI6v0CNZ-L5VKhcMomZag)
+- [数据结构与算法](https://pan.baidu.com/s/1k3759miFnJAQhb-RXv9sEQ)
+- [Android逆向](https://pan.baidu.com/s/1gKwqf5uTAeTs6iK_2eNSTw)
 - [flutter](https://pan.baidu.com/s/1PTTh3yNzc0Dn4GAZS8yXAg)
 - [Linux入门基础](https://study.163.com/course/courseMain.htm?courseId=232007)
 - [汇编语言从0开始 到C语言](https://study.163.com/course/courseMain.htm?courseId=1640004)
@@ -52,3 +55,10 @@
 
 - 深入理解计算机系统（原书第三版）
 - 大话数据结构
+- 深入理解Java虚拟机：JVM高级特性与最佳实践（第二版）
+- C++ Primer（中文第五版）
+
+#### 面试
+
+- [春招实习小结（已收到阿里和腾讯的offer）--- 和书诚](https://blog.csdn.net/qq_38499859/article/details/89086943)
+- 
